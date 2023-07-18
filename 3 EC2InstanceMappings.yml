@@ -1,16 +1,16 @@
 Mappings:
   InstanceMap:
-    us-east-1:
+    ap-south-1a:
       dev: t2.micro
       prod: m1.small
-    us-west-1: 
+    ap-south-1b: 
       dev: m1.small
       prod: m1.large
   AMIMap:
-    us-east-1:
+    ap-south-1a:
       dev: ami-0915bcb5fa77e4892
       prod: ami-0915bcb5fa77e4892
-    us-west-1:
+    ap-south-1b:
       dev: ami-066c82dabe6dd7f73
       prod: ami-066c82dabe6dd7f73
 Resources:
